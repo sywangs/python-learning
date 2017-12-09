@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81bccb79-a0e3-402b-8d22-c37a4154be1a" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/while/confimed_users.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/for/greeter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/liner_model$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1512482042645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
     <SUITE FILE_PATH="coverage/liner_model$logistic_regression_watermelon.coverage" NAME="logistic_regression_watermelon Coverage Results" MODIFIED="1511696946129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
     <SUITE FILE_PATH="coverage/liner_model$myTest.coverage" NAME="myTest Coverage Results" MODIFIED="1511706468580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
+    <SUITE FILE_PATH="coverage/liner_model$greeter.coverage" NAME="greeter Coverage Results" MODIFIED="1512821409943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for" />
     <SUITE FILE_PATH="coverage/liner_model$self_def.coverage" NAME="self_def Coverage Results" MODIFIED="1511614688131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
     <SUITE FILE_PATH="coverage/liner_model$dictionaryTest.coverage" NAME="dictionaryTest Coverage Results" MODIFIED="1512786241227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liner_model$firstFor.coverage" NAME="firstFor Coverage Results" MODIFIED="1512744755170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -25,21 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parrot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/while/parrot.py">
+      <file leaf-file-name="greeter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/for/greeter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="confimed_users.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/while/confimed_users.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -70,6 +61,7 @@
         <option value="$PROJECT_DIR$/dictionary/many_users.py" />
         <option value="$PROJECT_DIR$/while/parrot.py" />
         <option value="$PROJECT_DIR$/while/confimed_users.py" />
+        <option value="$PROJECT_DIR$/for/greeter.py" />
       </list>
     </option>
   </component>
@@ -117,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.confimed_users">
+  <component name="RunManager" selected="Python.greeter">
     <configuration name="confimed_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,20 +146,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="firstFor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="greeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liner_model" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstFor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for/greeter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +201,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.firstFor" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dictionaryTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.many_users" />
-      <item index="3" class="java.lang.String" itemvalue="Python.parrot" />
-      <item index="4" class="java.lang.String" itemvalue="Python.confimed_users" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dictionaryTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.many_users" />
+      <item index="2" class="java.lang.String" itemvalue="Python.parrot" />
+      <item index="3" class="java.lang.String" itemvalue="Python.confimed_users" />
+      <item index="4" class="java.lang.String" itemvalue="Python.greeter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.confimed_users" />
-        <item index="1" class="java.lang.String" itemvalue="Python.parrot" />
-        <item index="2" class="java.lang.String" itemvalue="Python.many_users" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dictionaryTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.firstFor" />
+        <item index="0" class="java.lang.String" itemvalue="Python.greeter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.confimed_users" />
+        <item index="2" class="java.lang.String" itemvalue="Python.parrot" />
+        <item index="3" class="java.lang.String" itemvalue="Python.many_users" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dictionaryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -462,6 +454,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/while/confimed_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/while/parrot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -470,10 +470,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/while/confimed_users.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for/greeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding />
         </state>
       </provider>
