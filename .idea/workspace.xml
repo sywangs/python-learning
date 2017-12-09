@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81bccb79-a0e3-402b-8d22-c37a4154be1a" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/greeter.py" afterPath="$PROJECT_DIR$/function/greeter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/pizza.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/user_profile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,24 +15,57 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/liner_model$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1512482042645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
-    <SUITE FILE_PATH="coverage/liner_model$logistic_regression_watermelon.coverage" NAME="logistic_regression_watermelon Coverage Results" MODIFIED="1511696946129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
-    <SUITE FILE_PATH="coverage/liner_model$myTest.coverage" NAME="myTest Coverage Results" MODIFIED="1511706468580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
     <SUITE FILE_PATH="coverage/liner_model$greeter.coverage" NAME="greeter Coverage Results" MODIFIED="1512821409943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for" />
+    <SUITE FILE_PATH="coverage/liner_model$print_models.coverage" NAME="print_models Coverage Results" MODIFIED="1512824170774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/liner_model$self_def.coverage" NAME="self_def Coverage Results" MODIFIED="1511614688131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
     <SUITE FILE_PATH="coverage/liner_model$dictionaryTest.coverage" NAME="dictionaryTest Coverage Results" MODIFIED="1512786241227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liner_model$user_profile.coverage" NAME="user_profile Coverage Results" MODIFIED="1512833637872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/liner_model$greeter__1_.coverage" NAME="greeter (1) Coverage Results" MODIFIED="1512822903476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/liner_model$logistic_regression_watermelon.coverage" NAME="logistic_regression_watermelon Coverage Results" MODIFIED="1511696946129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
+    <SUITE FILE_PATH="coverage/liner_model$myTest.coverage" NAME="myTest Coverage Results" MODIFIED="1511706468580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/inspectionProfiles" />
+    <SUITE FILE_PATH="coverage/liner_model$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1512832446125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/liner_model$firstFor.coverage" NAME="firstFor Coverage Results" MODIFIED="1512744755170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liner_model$many_users.coverage" NAME="many_users Coverage Results" MODIFIED="1512788332720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
     <SUITE FILE_PATH="coverage/liner_model$parrot.coverage" NAME="parrot Coverage Results" MODIFIED="1512790427322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
     <SUITE FILE_PATH="coverage/liner_model$confimed_users.coverage" NAME="confimed_users Coverage Results" MODIFIED="1512792804109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
-    <SUITE FILE_PATH="coverage/liner_model$greeter__1_.coverage" NAME="greeter (1) Coverage Results" MODIFIED="1512821943737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="greeter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="greeter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function/greeter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="411">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="print_models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/print_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pizza.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/pizza.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_profile.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function/user_profile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -46,6 +81,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -63,6 +99,9 @@
         <option value="$PROJECT_DIR$/while/confimed_users.py" />
         <option value="$PROJECT_DIR$/for/greeter.py" />
         <option value="$PROJECT_DIR$/function/greeter.py" />
+        <option value="$PROJECT_DIR$/function/print_models.py" />
+        <option value="$PROJECT_DIR$/function/pizza.py" />
+        <option value="$PROJECT_DIR$/function/user_profile.py" />
       </list>
     </option>
   </component>
@@ -110,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.greeter (1)">
+  <component name="RunManager" selected="Python.user_profile">
     <configuration name="confimed_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +168,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="greeter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="greeter (1)" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -165,56 +204,75 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="many_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liner_model" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/many_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="parrot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="print_models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liner_model" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/parrot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/print_models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.many_users" />
-      <item index="1" class="java.lang.String" itemvalue="Python.parrot" />
-      <item index="2" class="java.lang.String" itemvalue="Python.confimed_users" />
-      <item index="3" class="java.lang.String" itemvalue="Python.greeter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.greeter (1)" />
+    <configuration name="user_profile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="liner_model" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/user_profile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.greeter (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.confimed_users" />
+      <item index="2" class="java.lang.String" itemvalue="Python.greeter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.print_models" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pizza" />
+      <item index="5" class="java.lang.String" itemvalue="Python.user_profile" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.greeter (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.greeter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.confimed_users" />
-        <item index="3" class="java.lang.String" itemvalue="Python.parrot" />
-        <item index="4" class="java.lang.String" itemvalue="Python.many_users" />
+        <item index="0" class="java.lang.String" itemvalue="Python.user_profile" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pizza" />
+        <item index="2" class="java.lang.String" itemvalue="Python.print_models" />
+        <item index="3" class="java.lang.String" itemvalue="Python.greeter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.confimed_users" />
       </list>
     </recent_temporary>
   </component>
@@ -229,10 +287,26 @@
       <option name="presentableId" value="Default" />
       <updated>1511579961413</updated>
     </task>
+    <task id="LOCAL-00001" summary="function with  while">
+      <created>1512823119270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512823119270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Opernate list with function">
+      <created>1512824268800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512824268800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -263,6 +337,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="function with  while" />
+    <MESSAGE value="Opernate list with function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opernate list with function" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -488,8 +571,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/function/greeter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="411">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/print_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/user_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
         </state>
       </provider>
