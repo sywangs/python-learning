@@ -23,4 +23,3 @@ for key,vlaue in alien_0.items():
     print("\nkey:" + key)
     print ("value:" + str(vlaue))
 
-
