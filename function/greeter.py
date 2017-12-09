@@ -17,10 +17,10 @@ def get_formatted_name(first_name,last_name,middle_name = ''):
 def build_person (first_name,last_name,middle_name = ''):
     """return disctionary"""
     person = {'first_name':first_name,'last_name':last_name}
-    if'' != middle_name :
+    if middle_name :
         person['middle_name'] = middle_name
     return person
 
-person = build_person("W","SY")
+person = build_person("W","SY","LL")
 print (person)
 
